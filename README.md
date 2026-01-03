@@ -72,9 +72,6 @@
 | 🚀 Project | Description | Tech Stack |
 |:-----------|:-------------|:-------------|
 | **[🤖 Recommendation System](https://github.com/sjsjsmsmsj/Recommendation_System)** | An intelligent content delivery engine using Collaborative Filtering to personalize user experiences. | **React, FastAPI, PostgreSQL, Scikit-Learn** |
-| **[💡 Algorithm Practice](https://github.com/sjsjsmsmsj/leetcode-practice)** | Comprehensive collection of optimized DSA solutions and competitive programming patterns. | Python, Java |
-| **[🌐 Personal Portfolio](https://github.com/sjsjsmsmsj/portfolio)** | Professional showcase of skills and journey, designed with **Figma** and built with **React**. | React, Node.js, Figma |
-
 ---
 
 ### 📊 Performance & Statistics
