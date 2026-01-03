@@ -76,10 +76,6 @@
 
 ### 📊 Performance & Statistics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sjsjsmsmsj&show_icons=true&theme=tokyonight&hide_border=true&title_color=61DBFB&icon_color=61DBFB&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjsjsmsmsj&layout=compact&theme=tokyonight&hide_border=true&title_color=61DBFB&icon_color=61DBFB&text_color=FFFFFF" />
-</p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sjsjsmsmsj&theme=tokyonight&hide_border=true&stroke=61DBFB&ring=61DBFB&fire=61DBFB" />
