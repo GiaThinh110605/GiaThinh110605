@@ -81,7 +81,7 @@
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sjsjsmsmsj&show_icons=true&theme=tokyonight&hide_border=true)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjsjsmsmsj&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sjsjsmsmsj&layout=donut&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </p>
 
 <p align="center">
