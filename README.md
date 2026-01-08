@@ -76,19 +76,31 @@
 
 ### 📊 Performance & Statistics
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sjsjsmsmsj&theme=tokyonight&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sjsjsmsmsj&show_icons=true&theme=tokyonight&hide_border=true)
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sjsjsmsmsj&layout=donut&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjsjsmsmsj&theme=tokyonight" alt="Profile Details" />
-</p>
-
-![LeetCode Card](https://leetcard.jacoblin.cool/lamgiathinh05?theme=dark&font=Source%20Code%20Pro&ext=contest)
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sjsjsmsmsj&theme=tokyonight&hide_border=true&area=true" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sjsjsmsmsj&show_icons=true&theme=tokyonight&hide_border=true" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sjsjsmsmsj&layout=donut&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+       <img src="https://leetcard.jacoblin.cool/lamgiathinh05?theme=dark&font=Source%20Code%20Pro&ext=contest" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjsjsmsmsj&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
