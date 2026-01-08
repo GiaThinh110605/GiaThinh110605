@@ -76,7 +76,7 @@
 
 ### 📊 Performance & Statistics
 
-![GitHub Streak](https://github-readme-streak-stats-five-green.vercel.app/?user=sjsjsmsmsj&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-git-main-denver-coder1s-projects.vercel.app/?user=sjsjsmsmsj&theme=tokyonight&hide_border=true&v=2026)
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sjsjsmsmsj&show_icons=true&theme=tokyonight&hide_border=true)
 
