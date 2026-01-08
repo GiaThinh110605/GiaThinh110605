@@ -76,17 +76,11 @@
 
 ### 📊 Performance & Statistics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sjsjsmsmsj&theme=tokyonight&hide_border=true&cache=clear" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sjsjsmsmsj&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sjsjsmsmsj&show_icons=true&theme=tokyonight&hide_border=true&cache=clear" alt="GitHub Stats" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjsjsmsmsj&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/lamgiathinh05?theme=dark&font=Source%20Code%20Pro&ext=contest&title=Competitive%20Programming%20Progress" />
-</p>
+![LeetCode Card](https://leetcard.jacoblin.cool/lamgiathinh05?theme=dark&font=Source%20Code%20Pro&ext=contest)
 
 ---
 
