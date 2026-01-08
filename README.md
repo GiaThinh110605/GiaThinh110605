@@ -102,18 +102,19 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:lamgiathinh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/th%E1%BB%8Bnh-l%C3%A2m-gia-984007381/" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" />
   </a>
-  <a href="https://www.linkedin.com/in/th%E1%BB%8Bnh-l%C3%A2m-gia-984007381/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="mailto:lamgiathinh@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=D14836&logo=Gmail&logoColor=FFFFFF&label=" alt="Email" />
   </a>
-  <a href="https://leetcode.com/u/lamgiathinh05/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <a href="https://leetcode.com/u/lamgiathinh05/" target="_blank">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LeetCode&color=FFA116&logo=LeetCode&logoColor=FFFFFF&label=" alt="LeetCode" />
   </a>
-  <a href="https://github.com/sjsjsmsmsj">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sjsjsmsmsj&label=PROFILE+VIEWS&color=61DBFB&style=flat-square" alt="Views" />
 </p>
 
 <p align="center">
