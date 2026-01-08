@@ -84,7 +84,7 @@
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sjsjsmsmsj&show_icons=true&theme=tokyonight&hide_border=true" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjsjsmsmsj&theme=tokyonight" width="100%" />
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sjsjsmsmsj&layout=donut&theme=tokyonight&hide_border=true" />
@@ -93,11 +93,6 @@
   <tr>
     <td colspan="2" align="center">
        <img src="https://leetcard.jacoblin.cool/lamgiathinh05?theme=dark&font=Source%20Code%20Pro&ext=contest" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjsjsmsmsj&theme=tokyonight" width="100%" />
     </td>
   </tr>
 </table>
