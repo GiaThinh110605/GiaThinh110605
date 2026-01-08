@@ -80,7 +80,7 @@
   <tr>
     <td colspan="2" align="center">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=0:61DBFB,100:006D77&height=20&section=header" width="100%"/>
-      <img src="https://raw.githubusercontent.com/sjsjsmsmsj/sjsjsmsmsj/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%" />
+      <img src="https://raw.githubusercontent.com/sjsjsmsmsj/sjsjsmsmsj/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
     </td>
   </tr>
   <tr>
