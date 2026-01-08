@@ -78,7 +78,7 @@
 
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sjsjsmsmsj&theme=tokyonight&hide_border=true&stroke=61DBFB&ring=61DBFB&fire=61DBFB" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=sjsjsmsmsj&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
