@@ -76,9 +76,9 @@
 
 ### 📊 Performance & Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sjsjsmsmsj&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sjsjsmsmsj&theme=tokyonight&hide_border=true)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sjsjsmsmsj&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sjsjsmsmsj&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![LeetCode Card](https://leetcard.jacoblin.cool/lamgiathinh05?theme=dark&font=Source%20Code%20Pro&ext=contest)
 
