@@ -79,6 +79,12 @@
 <table align="center">
   <tr>
     <td colspan="2" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:61DBFB,100:006D77&height=20&section=header" width="100%"/>
+      <img src="https://raw.githubusercontent.com/sjsjsmsmsj/sjsjsmsmsj/output/github-contribution-grid-snake.svg" alt="GitHub Snake" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=sjsjsmsmsj&theme=tokyonight&hide_border=true&area=true" width="100%" />
     </td>
   </tr>
@@ -87,12 +93,12 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjsjsmsmsj&theme=tokyonight" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sjsjsmsmsj&layout=donut&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sjsjsmsmsj&layout=donut&theme=tokyonight&hide_border=true" width="100%" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-       <img src="https://leetcard.jacoblin.cool/lamgiathinh05?theme=dark&font=Source%20Code%20Pro&ext=contest" />
+       <img src="https://leetcard.jacoblin.cool/lamgiathinh05?theme=dark&font=Source%20Code%20Pro&ext=contest" width="100%" />
     </td>
   </tr>
 </table>
