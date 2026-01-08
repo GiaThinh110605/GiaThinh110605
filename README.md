@@ -80,6 +80,14 @@
 
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=sjsjsmsmsj&show_icons=true&theme=tokyonight&hide_border=true)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjsjsmsmsj&layout=donut&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjsjsmsmsj&theme=tokyonight" alt="Profile Details" />
+</p>
+
 ![LeetCode Card](https://leetcard.jacoblin.cool/lamgiathinh05?theme=dark&font=Source%20Code%20Pro&ext=contest)
 
 ---
