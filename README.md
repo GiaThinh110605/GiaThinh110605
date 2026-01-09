@@ -71,7 +71,7 @@
 
 | 🚀 Project | Description | Tech Stack |
 |:-----------|:-------------|:-------------|
-| **[🤖 Recommendation System](https://github.com/sjsjsmsmsj/Recommendation_System)** | An intelligent content delivery engine using Collaborative Filtering to personalize user experiences. | **React, FastAPI, PostgreSQL, Scikit-Learn** |
+| **[🤖 Recommendation System](https://github.com/GiaThinh110605/Recommendation_System)** | An intelligent content delivery engine using Collaborative Filtering to personalize user experiences. | **React, FastAPI, PostgreSQL, Scikit-Learn** |
 ---
 
 ### 📊 Performance & Statistics
@@ -80,20 +80,20 @@
   <tr>
     <td colspan="2" align="center">
       <img src="https://capsule-render.vercel.app/api?type=rect&color=0:61DBFB,100:006D77&height=20&section=header" width="100%"/>
-      <img src="https://raw.githubusercontent.com/sjsjsmsmsj/sjsjsmsmsj/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
+      <img src="https://raw.githubusercontent.com/GiaThinh110605/GiaThinh110605/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" width="100%" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sjsjsmsmsj&theme=tokyonight&hide_border=true&area=true" width="100%" />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=GiaThinh110605&theme=tokyonight&hide_border=true&area=true" width="100%" />
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sjsjsmsmsj&theme=tokyonight" width="100%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GiaThinh110605&theme=tokyonight" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sjsjsmsmsj&layout=donut&theme=tokyonight&hide_border=true" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GiaThinh110605&layout=donut&theme=tokyonight&hide_border=true" width="100%" />
     </td>
   </tr>
   <tr>
@@ -120,7 +120,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sjsjsmsmsj&label=PROFILE+VIEWS&color=61DBFB&style=flat-square" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=GiaThinh110605&label=PROFILE+VIEWS&color=61DBFB&style=flat-square" alt="Views" />
 </p>
 
 <p align="center">
