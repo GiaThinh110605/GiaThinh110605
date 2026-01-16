@@ -20,7 +20,7 @@
 - 🤖 **AI Enthusiast:** Focusing on applying **Machine Learning** models (NLP & Recommendation Systems) to solve real-world business challenges.
 - 💼 **Software Engineer Intern** at **[Hipvan](https://www.hipvan.com/)**, specializing in backend services and AI integration to optimize e-commerce processes.
 - 🛠️ **Full-Stack Competency:** Expertly bridging the gap between high-performance backends (**FastAPI, Rails**) and interactive frontends (**React**).
-- 🏆 Awarded **Academic Excellence Scholarships** for two consecutive years (2023–2025).
+- 🏆 Awarded **Academic Excellence Scholarships** for two consecutive years (2023–current).
 
 ---
 
