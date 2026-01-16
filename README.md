@@ -42,10 +42,9 @@
       • SQL
     </td>
     <td vertical-align="top">
-      • <b>FastAPI</b> <br/>
-      • Ruby on Rails <br/>
+      • FastAPI <br/>
+      • <b>Ruby on Rails</b> <br/>
       • <b>React</b> <br/>
-      • NestJS <br/>
       • Node.js
     </td>
     <td vertical-align="top">
@@ -53,10 +52,10 @@
       • PyTorch <br/>
       • TensorFlow <br/>
       • Scikit-Learn <br/>
-      • MongoDB
+      • <b>MongoDB</b>
     </td>
     <td vertical-align="top">
-      • <b>Figma</b> (Design) <br/>
+      • Figma (Design) <br/>
       • <b>Plane</b> (Agile) <br/>
       • Docker <br/>
       • Git <br/>
